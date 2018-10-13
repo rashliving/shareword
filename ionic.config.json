@@ -1,0 +1,7 @@
+{
+  "name": "shareworld",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
